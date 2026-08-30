@@ -4,11 +4,11 @@ Owned by `0x6ung3r`
 
 We run a basic nmap scan:
 
-![](../Attachments/Pasted image 20260830213813.png)
+![](Attachments/Pasted image 20260830213813.png)
 
 We check out the website:
 
-![](../Attachments/Pasted image 20260830214201.png)
+![](../Attachments/Pasted%20image%2020260830214201.png)
 
 We check out the Security Snapshot menu:
 
