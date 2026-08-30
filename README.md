@@ -19,11 +19,6 @@ This repo contains my writeups and notes for HackTheBox machines. Each writeup d
 
 Machine selection follows the [TJ Null OSCP prep list v3](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit) (PEN-200 2023-2024).
 
-**Mindset:**
-- Minimum 2 hours of genuine effort before reading any hints
-- If I read a writeup, I reset the box and do it again from scratch without looking
-- Document everything during the attempt, not after.
-
 ---
 ## Progress
 
